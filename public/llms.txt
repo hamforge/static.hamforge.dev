@@ -1,0 +1,13 @@
+# hamforge
+
+> hamforge is a product studio building practical software for developers and marketers.
+
+This site is a simple landing page that explains what hamforge is, what it is building, and how to get in touch.
+
+## Pages
+
+- [Home](https://hamforge.dev/): Main landing page with the studio overview, roadmap, and product summaries.
+
+## Optional
+
+- [GitHub](https://github.com/hamforge): The hamforge GitHub organisation linked from the homepage.
